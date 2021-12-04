@@ -2,6 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
 
+
+#### film-app-backend
+
+
+Site : https://film-app-benali.herokuapp.com/
+les fonctionnalites dans l'app sont  :  Login/Registration/Espace favoris/recherche film/Pagination/Commentaire/Détails films/Rating/Recherche
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
@@ -28,16 +35,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 
-# film-app-backend
-
-
-Site : https://film-app-benali.herokuapp.com/
-les fonctionnalites : 
-              - Authentification
-              - La pagination
-              - Espace favoris | recherche un film
-              - possibilte de commenter un film et donner note/5
-              - affichage de détails du film avec un video trailer
+          
 
 
 
