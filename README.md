@@ -33,11 +33,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 Site : https://film-app-benali.herokuapp.com/
 les fonctionnalites : 
-              -- Authentification
-              -- La pagination
+              - Authentification
+              - La pagination
               - Espace favoris | recherche un film
-              - Rating
-              - détails du film avec trailer
+              - possibilte de commenter un film et donner note/5
+              - affichage de détails du film avec un video trailer
 
 
 
